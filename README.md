@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
-  <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+  <img align="left" alt="Rasedul's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/mrsohelcse/">
+<a href="https://www.linkedin.com/in/rasedul--islam/">
   <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/mr-sohel">
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/rasedul--islam/)
 - ⚡ Fun fact: I often play video games.
 
 **Languages and Tools:**
