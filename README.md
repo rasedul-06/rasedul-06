@@ -10,7 +10,7 @@
 <a href="https://github.com/rasedul-06">
   <img align="left" alt="Rasedul's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://instagram.com/im.rasedul/">
+<a href="https://instagram.com/_rasedul_/">
   <img align="left" alt="Rasedul's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://web.facebook.com/profile.php?id=100093850872725">
