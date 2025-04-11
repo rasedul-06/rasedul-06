@@ -13,7 +13,7 @@
 <a href="https://instagram.com/im.rasedul/">
   <img align="left" alt="Rasedul's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://web.facebook.com/profile.php?id=100093850872725" target="blank">
+<a href="https://web.facebook.com/profile.php?id=100093850872725">
   <img align="left" alt="Rasedul's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
