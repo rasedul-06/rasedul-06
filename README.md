@@ -19,9 +19,9 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/rasedul0110/)
+- 🌱 Currently I'm learning Java.
+- 🤔 I’m interested in Software Development.
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/rasedulislam0110/)
 - ⚡ Fun fact: I often play video games.
 
 **Languages and Tools:**
