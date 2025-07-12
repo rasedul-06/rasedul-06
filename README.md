@@ -19,10 +19,10 @@
 <br/>
 <br/>
 
-- 🌱 Currently I'm learning Java.
+- 🌱 Currently I'm learning Python.
 - 🤔 I’m interested in Software Development.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/rasedulislam0110/)
-- ⚡ Fun fact: I often play video games.
+- ⚡ I like to play games like cricket,football,vollyball,esports game etc.
 
 **Languages and Tools:**
 
